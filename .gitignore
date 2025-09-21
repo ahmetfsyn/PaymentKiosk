@@ -1,0 +1,31 @@
+# Node.js bağımlılıkları
+web/node_modules/
+
+# Build çıktıları
+web/dist/
+web/build/
+
+# Çevresel değişkenler
+web/.env
+web/.env.local
+web/.env.*.local
+
+# Loglar
+web/npm-debug.log*
+web/yarn-debug.log*
+web/yarn-error.log*
+web/pnpm-debug.log*
+
+# IDE / editör
+web/.vscode/
+web/.idea/
+
+# OS dosyaları
+web/.DS_Store
+web/Thumbs.db
+
+# Test coverage
+web/coverage/
+
+
+# .Net Core ---
