@@ -4,7 +4,7 @@ import { Route, Routes } from "react-router";
 const AuthRoutes = () => {
   return (
     <Routes>
-      <Route path="/login" element={<Login />}></Route>
+      <Route path="login" element={<Login />}></Route>
     </Routes>
   );
 };
